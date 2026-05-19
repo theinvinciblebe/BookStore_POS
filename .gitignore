@@ -1,0 +1,9 @@
+# NetBeans generated files
+/build/
+/dist/
+/nbproject/private/
+
+# Compiled files
+*.class
+*.jar
+*.exe
