@@ -1,3 +1,38 @@
+# BookStore POS
+
+A Java-based Bookstore Management System that integrates multiple functionalities to streamline inventory and sales management, as well as user access.
+
+## Overview
+
+BookStore POS is a comprehensive point-of-sale (POS) system designed specifically for bookstore operations. It provides tools for managing inventory, processing sales, and controlling user access within a single, cohesive application.
+
+## Features
+
+- **Inventory Management** - Track and manage book stock levels, pricing, and availability
+- **Sales Management** - Process transactions and manage sales records
+- **User Access Control** - Role-based access management for different user types
+- **Point of Sale** - Complete POS functionality for checkout and payment processing
+
+## Technology Stack
+
+- **Language:** Java
+- **Type:** Desktop Application
+
+## Getting Started
+
+### Prerequisites
+
+- Java Development Kit (JDK) 8 or higher
+- Maven (or Gradle, depending on project configuration)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/theinvinciblebe/BookStore_POS.git
+cd BookStore_POS
+
+
 # Java Dashboard Light and Dark mode
 This dashboard build by using java swing with flatlaf look and feel
 
